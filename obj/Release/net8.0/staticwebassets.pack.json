@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg",
+      "PackagePath": "staticwebassets\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json",
+      "PackagePath": "staticwebassets\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json"
+    },
+    {
+      "Id": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json",
+      "PackagePath": "staticwebassets\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json"
+    },
+    {
+      "Id": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json",
+      "PackagePath": "staticwebassets\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json"
+    },
+    {
+      "Id": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json",
+      "PackagePath": "staticwebassets\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

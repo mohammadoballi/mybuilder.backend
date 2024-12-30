@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "9Yemy0NikmYUd6cGH1wMNg4FkQ35AIjpIRzNnT2e27U=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/69bcf30f-2460-48f4-8cd6-5a1d77caa605#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ia5tjc51p9",
+      "Integrity": "CvPxSvfYMw5lODiGLRo5O7jjvhsqyHBNWF/zFP9J1Dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "userJsons/3b04bd53-797e-45dc-a019-6507cae628ee#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "weiagtpnx3",
+      "Integrity": "SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json"
+    },
+    {
+      "Identity": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "userJsons/74a812cc-f704-4d78-8c2a-22e7b29e0bf8#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e2et0zojlp",
+      "Integrity": "imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json"
+    },
+    {
+      "Identity": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "userJsons/93a833cd-13df-4cc4-a61f-6c8eb377dcc1#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e2et0zojlp",
+      "Integrity": "imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json"
+    },
+    {
+      "Identity": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "userJsons/fa463504-2a79-4b06-89bc-d39c6749c270#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "weiagtpnx3",
+      "Integrity": "SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/69bcf30f-2460-48f4-8cd6-5a1d77caa605.ia5tjc51p9.jpg",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CvPxSvfYMw5lODiGLRo5O7jjvhsqyHBNWF/zFP9J1Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 23:10:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ia5tjc51p9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CvPxSvfYMw5lODiGLRo5O7jjvhsqyHBNWF/zFP9J1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "images/69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\images\\69bcf30f-2460-48f4-8cd6-5a1d77caa605.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CvPxSvfYMw5lODiGLRo5O7jjvhsqyHBNWF/zFP9J1Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 23:10:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CvPxSvfYMw5lODiGLRo5O7jjvhsqyHBNWF/zFP9J1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/3b04bd53-797e-45dc-a019-6507cae628ee.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 23:14:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/3b04bd53-797e-45dc-a019-6507cae628ee.weiagtpnx3.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\3b04bd53-797e-45dc-a019-6507cae628ee.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 23:14:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "weiagtpnx3"
+        },
+        {
+          "Name": "label",
+          "Value": "userJsons/3b04bd53-797e-45dc-a019-6507cae628ee.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/74a812cc-f704-4d78-8c2a-22e7b29e0bf8.e2et0zojlp.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2et0zojlp"
+        },
+        {
+          "Name": "label",
+          "Value": "userJsons/74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\74a812cc-f704-4d78-8c2a-22e7b29e0bf8.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/93a833cd-13df-4cc4-a61f-6c8eb377dcc1.e2et0zojlp.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2et0zojlp"
+        },
+        {
+          "Name": "label",
+          "Value": "userJsons/93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\93a833cd-13df-4cc4-a61f-6c8eb377dcc1.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:46:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imcFrCABGfnzzBR7qMX6Mnohg7ZKkCo8K1v5zYQOIpQ="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/fa463504-2a79-4b06-89bc-d39c6749c270.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A="
+        }
+      ]
+    },
+    {
+      "Route": "userJsons/fa463504-2a79-4b06-89bc-d39c6749c270.weiagtpnx3.json",
+      "AssetFile": "C:\\Users\\Dream\\Desktop\\Projects\\Console\\backend\\wwwroot\\userJsons\\fa463504-2a79-4b06-89bc-d39c6749c270.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 22:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "weiagtpnx3"
+        },
+        {
+          "Name": "label",
+          "Value": "userJsons/fa463504-2a79-4b06-89bc-d39c6749c270.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SJDslnaVxKGELbIygGE3Kqi3jYILlNIPbamDto/GY5A="
+        }
+      ]
+    }
+  ]
+}
